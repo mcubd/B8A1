@@ -22,7 +22,7 @@ const LengthCheak = (value: string | number) => {
 
 
 // using instanceof to cheak if type is instanceof for specific class
-const showDate = (x:Date | String) => {
+const showDate = (x:Date | string) => {
     if (x instanceof Date) {
         console.log(x.toISOString());
         return;
