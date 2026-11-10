@@ -1,4 +1,4 @@
-# Solved Assaingment-1 all 8 problems.
+# Solved Assaingment-1
 
 all problems are stored in `solution.ts` file
 
